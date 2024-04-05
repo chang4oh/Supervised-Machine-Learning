@@ -12,9 +12,9 @@
 <br>Regression are continuous numerical that predicts output based on features
 <br>great use for predicting property values including homes and vehicles
 <br>Algorithms that are used are: K-Nearest Neigbhors regressor, Linear regression, decision tree regressor,
-<br>support vector math (SVM)
+<br>support vector machine (SVM)
 <br>
-<br>Generally KNN classifer, Linear Regression, decision tree classifier, and support vector math are used often
+<br>Generally KNN classifer, Linear Regression, decision tree classifier, and support vector machine are used often
 <br>As it derive the output with optimal performance 
 <br>
 <br>KNN will also be used in clustering mentioned in Unsupervised Machine Learning project
